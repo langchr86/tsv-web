@@ -136,6 +136,14 @@
   url = "/news/2025-09-14_rss"
   weight = 102
 
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/langchr86/tsv-web"
+  weight = 103
+
+
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
