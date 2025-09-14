@@ -111,31 +111,30 @@
 [[main]]
   name = "Kontakt"
   pageRef = "/contact"
-  weight = 90
+  weight = 50
 
 [[main]]
-  identifier = "image"
-  pre = "image"
+  name = "Galerie"
   url = "https://gallery.tsvmettauertal.ch/"
-  weight = 100
+  weight = 60
 
 [[main]]
   identifier = "facebook"
   pre = "facebook"
   url = "https://facebook.com/tsvmettauertal"
-  weight = 101
+  weight = 100
 
 [[main]]
   identifier = "instagram"
   pre = "instagram"
   url = "https://instagram.com/tsvmettauertal"
-  weight = 102
+  weight = 101
 
 [[main]]
   identifier = "rss"
   pre = "rss"
   url = "/news/2025-09-14_rss"
-  weight = 103
+  weight = 102
 
 
 # -- Footer Menu --
