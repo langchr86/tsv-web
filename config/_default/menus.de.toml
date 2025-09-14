@@ -157,10 +157,10 @@
 
  [[footer]]
    name = "Datenschutz"
-   pageRef = "/organisation/datenschutz"
+   pageRef = "/about/datenschutz"
    weight = 100
 
  [[footer]]
    name = "Impressum"
-   pageRef = "/organisation/impressum"
+   pageRef = "/about/impressum"
    weight = 110
