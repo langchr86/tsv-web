@@ -122,21 +122,21 @@
   weight = 90
 
 [[main]]
-  identifier = "tsv"
-  pre = "tsv"
-  url = "https://www.tsvmettauertal.ch"
+  identifier = "image"
+  pre = "image"
+  url = "https://gallery.tsvmettauertal.ch/"
   weight = 100
 
 [[main]]
   identifier = "facebook"
   pre = "facebook"
-  url = "https://www.facebook.com/tsvmettauertal"
+  url = "https://facebook.com/tsvmettauertal"
   weight = 101
 
 [[main]]
   identifier = "instagram"
   pre = "instagram"
-  url = "https://www.instagram.com/jtf_2025"
+  url = "https://instagram.com/tsvmettauertal"
   weight = 102
 
 [[main]]
