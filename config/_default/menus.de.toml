@@ -11,110 +11,102 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Willkommen"
-  pageRef = "/"
-  weight = 10
-
-[[main]]
   name = "News"
   pageRef = "/news"
-  weight = 15
+  weight = 10
 
 [[main]]
-  identifier = "turnbetrieb"
-  name = "Turnbetrieb"
-  pageRef = "/turnbetrieb"
+  name = "Anlässe"
+  identifier = "events"
+  pageRef = "/events"
   weight = 20
 [[main]]
-  name = "Disziplinen"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/disziplinen"
+  name = "Agenda"
+  parent = "events"
+  pageRef = "/events/agenda"
   weight = 1
 [[main]]
-  name = "Anmeldung"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/anmeldung"
+  name = "Schnuppertraining"
+  parent = "events"
+  pageRef = "/events/schnupper"
   weight = 2
 [[main]]
-  name = "Standort"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/standort"
+  name = "Gesellschaftliche Anlässe"
+  parent = "events"
+  pageRef = "/events/gesellschaftlich"
   weight = 3
-[[main]]
-  name = "Reglemente"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/reglemente"
-  weight = 4
-[[main]]
-  name = "Zeitpläne"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/zeitplane"
-  weight = 5
-[[main]]
-  name = "Anreise"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/anreise"
-  weight = 6
-[[main]]
-  name = "Letzte Weisungen"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/letzteweisungen"
-  weight = 7
-[[main]]
-  name = "Rangliste"
-  parent = "turnbetrieb"
-  pageRef = "/turnbetrieb/rangliste"
-  weight = 7
 
 [[main]]
-  name = "Organisation"
-  pageRef = "/organisation"
+  name = "Über uns"
+  identifier = "about"
+  pageRef = "/about"
   weight = 30
 [[main]]
-  name = "OK"
-  parent = "Organisation"
-  pageRef = "/organisation/ok"
+  name = "Organisation"
+  parent = "about"
+  pageRef = "/about/organisation"
   weight = 1
 [[main]]
-  name = "Verpflegung"
-  parent = "Organisation"
-  pageRef = "/organisation/verpflegung"
+  name = "Vorstand"
+  parent = "about"
+  pageRef = "/about/vorstand"
   weight = 2
 [[main]]
-  name = "Infostand und Fundbüro"
-  parent = "Organisation"
-  pageRef = "/organisation/infostand"
+  name = "Leitbild"
+  parent = "about"
+  pageRef = "/about/leitbild"
   weight = 3
 [[main]]
-  name = "Notfallinfos"
-  parent = "Organisation"
-  pageRef = "/organisation/notfallinfos"
+  name = "Downloads"
+  parent = "about"
+  pageRef = "/about/downloads"
   weight = 4
-[[main]]
-  name = "Kreisturnverbände"
-  parent = "Organisation"
-  pageRef = "/organisation/kreisturnverbande"
-  weight = 5
 
 [[main]]
-  name = "Marketing"
-  pageRef = "/marketing"
+  identifier = "riegen"
+  name = "Riegen"
+  pageRef = "/riegen"
   weight = 40
 [[main]]
-  name = "Unsere Sponsoren"
-  parent = "Marketing"
-  pageRef = "/marketing/sponsoren"
+  name = "Übersicht & Trainingsplan"
+  parent = "riegen"
+  pageRef = "/riegen/ubersicht"
+  weight = 1
+[[main]]
+  name = "Aktive"
+  parent = "riegen"
+  pageRef = "/riegen/aktive"
   weight = 2
 [[main]]
-  name = "Sponsoring-Konzept"
-  parent = "Marketing"
-  pageRef = "/marketing/konzept"
+  name = "Jugi"
+  parent = "riegen"
+  pageRef = "/riegen/jugi"
   weight = 3
 [[main]]
-  name = "Werbematerial"
-  parent = "Marketing"
-  pageRef = "/marketing/werbematerial"
-  weight = 10
+  name = "Kids"
+  parent = "riegen"
+  pageRef = "/riegen/kids"
+  weight = 4
+[[main]]
+  name = "Kinder-Turnen"
+  parent = "riegen"
+  pageRef = "/riegen/kitu"
+  weight = 5
+[[main]]
+  name = "Eltern-Kind-Turnen"
+  parent = "riegen"
+  pageRef = "/riegen/elki"
+  weight = 6
+[[main]]
+  name = "Volleyball"
+  parent = "riegen"
+  pageRef = "/riegen/volleyball"
+  weight = 7
+[[main]]
+  name = "Unihockey"
+  parent = "riegen"
+  pageRef = "/riegen/unihockey"
+  weight = 8
 
 [[main]]
   name = "Kontakt"
