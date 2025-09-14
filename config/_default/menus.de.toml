@@ -1,0 +1,166 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Willkommen"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "News"
+  pageRef = "/news"
+  weight = 15
+
+[[main]]
+  identifier = "turnbetrieb"
+  name = "Turnbetrieb"
+  pageRef = "/turnbetrieb"
+  weight = 20
+[[main]]
+  name = "Disziplinen"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/disziplinen"
+  weight = 1
+[[main]]
+  name = "Anmeldung"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/anmeldung"
+  weight = 2
+[[main]]
+  name = "Standort"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/standort"
+  weight = 3
+[[main]]
+  name = "Reglemente"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/reglemente"
+  weight = 4
+[[main]]
+  name = "Zeitpläne"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/zeitplane"
+  weight = 5
+[[main]]
+  name = "Anreise"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/anreise"
+  weight = 6
+[[main]]
+  name = "Letzte Weisungen"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/letzteweisungen"
+  weight = 7
+[[main]]
+  name = "Rangliste"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/rangliste"
+  weight = 7
+
+[[main]]
+  name = "Organisation"
+  pageRef = "/organisation"
+  weight = 30
+[[main]]
+  name = "OK"
+  parent = "Organisation"
+  pageRef = "/organisation/ok"
+  weight = 1
+[[main]]
+  name = "Verpflegung"
+  parent = "Organisation"
+  pageRef = "/organisation/verpflegung"
+  weight = 2
+[[main]]
+  name = "Infostand und Fundbüro"
+  parent = "Organisation"
+  pageRef = "/organisation/infostand"
+  weight = 3
+[[main]]
+  name = "Notfallinfos"
+  parent = "Organisation"
+  pageRef = "/organisation/notfallinfos"
+  weight = 4
+[[main]]
+  name = "Kreisturnverbände"
+  parent = "Organisation"
+  pageRef = "/organisation/kreisturnverbande"
+  weight = 5
+
+[[main]]
+  name = "Marketing"
+  pageRef = "/marketing"
+  weight = 40
+[[main]]
+  name = "Unsere Sponsoren"
+  parent = "Marketing"
+  pageRef = "/marketing/sponsoren"
+  weight = 2
+[[main]]
+  name = "Sponsoring-Konzept"
+  parent = "Marketing"
+  pageRef = "/marketing/konzept"
+  weight = 3
+[[main]]
+  name = "Werbematerial"
+  parent = "Marketing"
+  pageRef = "/marketing/werbematerial"
+  weight = 10
+
+[[main]]
+  name = "Kontakt"
+  pageRef = "/contact"
+  weight = 90
+
+[[main]]
+  identifier = "tsv"
+  pre = "tsv"
+  url = "https://www.tsvmettauertal.ch"
+  weight = 100
+
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/tsvmettauertal"
+  weight = 101
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/jtf_2025"
+  weight = 102
+
+[[main]]
+  identifier = "rss"
+  pre = "rss"
+  url = "/news/rss"
+  weight = 103
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "Kontakt"
+  pageRef = "/contact"
+  weight = 90
+
+ [[footer]]
+   name = "Datenschutz"
+   pageRef = "/organisation/datenschutz"
+   weight = 100
+
+ [[footer]]
+   name = "Impressum"
+   pageRef = "/organisation/impressum"
+   weight = 110
