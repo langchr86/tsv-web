@@ -1,0 +1,26 @@
+# based on: https://swharden.com/blog/2022-03-20-github-actions-hugo/
+
+name: hugo-deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: "0.148.2"
+
+      - name: Build
+        run: hugo --minify
