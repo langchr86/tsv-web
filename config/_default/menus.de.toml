@@ -52,7 +52,7 @@
   pageRef = "/about/vorstand"
   weight = 2
 [[main]]
-  name = "Leitbild"
+  name = "Leitbild und Geschichte"
   parent = "about"
   pageRef = "/about/leitbild"
   weight = 3
