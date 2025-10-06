@@ -50,3 +50,12 @@ Um Galerien in der Homepage einzubeten wird eine angepasste Version von
 
 Die angepassten Dateien, welche auf `gallery.tsvmettauertal.ch/piwigo-random/` verfügbar sein müssen, findet ihr hier:
 [piwigo-random](/piwigo-random/).
+
+
+Kontaktformular
+---------------
+
+Die Kontakt-Funktion wird über [formspark.io](https://dashboard.formspark.io) gelöst.
+Wir verwenden den existierenden Workspace `TSV JTF2025`, da wir sonst neue Submissions bezahlen müssten.
+
+Zur Bot-Bekämpfung nutzen wir: [botpoison.com](https://botpoison.com/)
