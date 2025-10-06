@@ -6,9 +6,9 @@ Herzlich willkommen
 -------------------
 
 Willkommen auf der Homepage des Turn- und Sportverein (TSV) Mettauertal.
-Hier findest du Informationen zu unserer Vereinsstruktur,
-den einzelnen Riegen, der Trainingsorganisation und der Agenda.
-Zudem werden hier regelmässig Berichte von Anlässen und Wettkämpfen und die dazugehörigen Bildgalerien publiziert.
+Hier findest du Informationen zu unserer [Vereinsstruktur](/about/organisation),
+den einzelnen [Riegen](/riegen/ubersicht), der [Trainingsorganisation](/riegen/ubersicht) und der [Agenda](/events/agenda).
+Zudem werden hier regelmässig [Berichte](/news) von Anlässen und Wettkämpfen und die dazugehörigen [Bildgalerien](https://gallery.tsvmettauertal.ch/) publiziert.
 
 
 Photo-Galerie
