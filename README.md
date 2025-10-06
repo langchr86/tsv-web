@@ -24,6 +24,11 @@ Nun kann lokal gearbeitet werden und mittels `hugo server` eine Server-Instanz g
 die unter [localhost:1313](http://localhost:1313) erreichbar ist.
 Diese aktualisiert sich bei den meisten Änderungen im Projekt automatisch.
 
+Alternativ kann auch komplett ohne lokale Entwicklungsumgebung gearbeitet werden.
+Dazu existiert die Github-Action: [hugo-deploy-dev.yml](.github/workflows/hugo-deploy-dev.yml)
+welche durch den `dev`-Branch ausgelöst wird und den aktuellen Stand auf
+[dev.tsvmettauertal.ch](https://dev.tsvmettauertal.ch) publiziert.
+
 
 ### Dokumentation
 
