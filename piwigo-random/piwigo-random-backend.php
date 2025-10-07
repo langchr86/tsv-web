@@ -135,6 +135,7 @@ if ($thumbc["stat"] === 'ok')
       var newImg = document.createElement("img");
       newImg.src = <?php echo json_encode($image_url); ?>;
       newImg.alt = "";
+      newImg.style = "margin-top: 0em; margin-bottom: 0em;";
       var newLink = document.createElement("a");
       newLink.href = <?php echo json_encode($page_url); ?>;
       newLink.id = "rndpic-a";
