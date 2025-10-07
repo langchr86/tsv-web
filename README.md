@@ -54,11 +54,16 @@ Die ausgiebige Fotosammlung wird in einem separaten Tool unter:
 [gallery.tsvmettauertal.ch](https://gallery.tsvmettauertal.ch) verwaltet.
 Dazu wird [Piwigo](https://piwigo.org) selber gehostet.
 
-Um Galerien in der Homepage einzubeten wird eine angepasste Version von
+Um zufällige Bilder auf der Homepage einzubeten wird eine angepasste Version von
 [piwigo-random](https://github.com/moy/piwigo-random) verwendet.
-
 Die angepassten Dateien, welche auf `gallery.tsvmettauertal.ch/piwigo-random/` verfügbar sein müssen, findet ihr hier:
 [piwigo-random](/piwigo-random/).
+
+Um ein spezifisches Album in einem Bericht zu verlinken kann der entsprechende Shortcode verwendet werden:
+
+~~~~~~
+{{< piwigo category=11 >}}
+~~~~~~
 
 
 Kontaktformular

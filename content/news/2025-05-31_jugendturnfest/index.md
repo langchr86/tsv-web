@@ -24,7 +24,11 @@ Larissa Weiss & Christian Lang
 Die Jugendturnfest-Homepage findet sich weiterhin hier: [jtf2025.ch](https://jtf2025.ch/)
 
 
-Bilder vom Fest: [2025-05-31 - Jugendturnfest Etzgen](https://gallery.tsvmettauertal.ch/index.php?/category/11)  
+Bilder vom Fest:
+{{< piwigo category=11 >}}
 
-Bilder vom Aufbau: [2025-05-24 - Jugendturnfest Aufbau](https://gallery.tsvmettauertal.ch/index.php?/category/12)  
-Bilder vom Abbau: [2025-06-01 - Jugendturnfest Abbau](https://gallery.tsvmettauertal.ch/index.php?/category/10)  
+Bilder vom Aufbau:
+{{< piwigo category=12 >}}
+
+Bilder vom Abbau:
+{{< piwigo category=10 >}}
