@@ -17,7 +17,7 @@ für die Jugend- und Aktivenabteilung besonders gefordert.
 Mitglieder
 ----------
 
-![Vorstand](vorstand.jpg)
+![Vorstand](cover.jpg)
 
 Von links nach rechts:
 
