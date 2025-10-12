@@ -13,10 +13,6 @@ ist eine zusätzliche Person mit der Einsatzkoordination aller kommerziellen öf
 Die beiden technischen Leiter sind durch ihre Zuständigkeit als Sprachrohr
 für die Jugend- und Aktivenabteilung besonders gefordert.
 
-
-Mitglieder
-----------
-
 ![Vorstand](cover.jpg)
 
 Von links nach rechts:
