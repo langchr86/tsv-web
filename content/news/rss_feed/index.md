@@ -1,6 +1,7 @@
 ---
 title: 'News auch per RSS'
 date: '2025-05-01'
+showHero: false
 ---
 
 Auch wenn heute die Social-Media-Kanäle für die Verteilung von News und Impressionen dominieren,
