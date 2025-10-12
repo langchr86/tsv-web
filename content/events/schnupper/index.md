@@ -3,6 +3,7 @@ title: 'Schnuppertraining'
 cascade:
   showDate: false
   showPagination: false
+originalImage: 2024-08-24-13-55-55.jpg
 ---
 
 Werde Teil dieser grossartigen Turn- und Sportfamilie und besuche eines unserer Trainings!
