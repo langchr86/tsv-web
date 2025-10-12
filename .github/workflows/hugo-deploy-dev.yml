@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - dev
+  schedule:
+    # Run every day at 1:50 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
+    - cron: "50 1 * * *"
 
 jobs:
   deploy:
