@@ -3,7 +3,8 @@ title: 'Kontakte'
 cascade:
   showDate: false
   showPagination: false
-showHero: false
+showHero: true
+heroStyle: background
 ---
 
 
