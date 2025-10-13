@@ -1,8 +1,5 @@
 ---
 title: 'Gesellschaftliche Anlässe'
-cascade:
-  showDate: false
-  showPagination: false
 originalImage: 2024-08-31-16-10-15.jpg
 ---
 
