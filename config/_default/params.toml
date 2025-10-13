@@ -6,8 +6,8 @@ enableCodeCopy = true
 mainSections = [ "news" ]
 disableImageOptimization = true
 disableTextInHeader = true
-defaultBackgroundImage = "img/default_background.jpg"
-defaultFeaturedImage = "img/default_feature.jpg"
+defaultBackgroundImage = "img/2018-06-23-10-55-13.jpg"
+defaultFeaturedImage = "img/2018-06-23-10-55-13.jpg"
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
@@ -33,7 +33,7 @@ showMoreLinkDest = "news"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
-homepageImage = "img/default_background.jpg"
+homepageImage = "img/2018-06-23-10-55-13.jpg"
 
 [article]
 showDate = true
