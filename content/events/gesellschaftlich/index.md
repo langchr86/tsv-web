@@ -1,6 +1,6 @@
 ---
 title: 'Gesellschaftliche Anlässe'
-originalImage: 2024-08-31-16-10-15.jpg
+originalImage: 2020-06-13-15-55-35.jpg
 ---
 
 Ergänzend zum normalen Trainingsbetrieb führt der TSV Mettauertal auch verschiedene Anlässe während dem Jahr durch.
