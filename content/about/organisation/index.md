@@ -9,7 +9,7 @@ Dazu gehört neben der Organisation öffentlicher und interner Anlässe auch die
 Neben den üblichen Ämtern gehören dem Vorstand zudem die technischen Leiter der Aktiv- und der Jugendabteilung an.
 Diese vertreten die einzelnen Riegen im Vorstand und sorgen für die nötige Kommunikation untereinander.
 
-Die jeweiligen [Riegen](/riegen/ubersicht) verfügen jeweils über einen Riegenleiter,
+Die jeweiligen [Riegen](/riegen/) verfügen jeweils über einen Riegenleiter,
 welcher die Trainings organisiert und mithilfe seiner (Hilfs-)Leiter durchführt.
 Ausnahme bildet hier der [Unihockey-Spielbetrieb Wildgoose Wil-Gansingen](https://wildgoose.ch/),
 welcher eine Spielgemeinschaft mit dem [TSV Gansingen](https://www.tsvgansingen.ch/) darstellt.
