@@ -61,6 +61,11 @@
   parent = "about"
   pageRef = "/about/downloads"
   weight = 4
+[[main]]
+  name = "Spenden"
+  parent = "about"
+  pageRef = "/about/spenden"
+  weight = 5
 
 [[main]]
   identifier = "riegen"
