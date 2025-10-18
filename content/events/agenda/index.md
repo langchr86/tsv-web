@@ -1,9 +1,6 @@
 ---
 title: 'Agenda'
 showHero: false
-cascade:
-  showDate: false
-  showPagination: false
 ---
 
 Im Folgenden wird der Online-Google-Kalender mit allen Terminen zur Verfügung gestellt.
