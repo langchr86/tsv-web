@@ -4,6 +4,7 @@ cascade:
   showDate: false
   showPagination: false
 heroStyle: background
+layoutBackgroundHeaderSpace: false
 ---
 
 Folgende Ressorts können direkt angeschrieben werden:
