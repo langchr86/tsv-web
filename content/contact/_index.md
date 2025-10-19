@@ -3,13 +3,8 @@ title: 'Kontakte'
 cascade:
   showDate: false
   showPagination: false
-showHero: true
 heroStyle: background
 ---
-
-
-Vorstand
---------
 
 Folgende Ressorts können direkt angeschrieben werden:
 
