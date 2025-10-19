@@ -18,4 +18,4 @@ Folgende Ressorts können direkt angeschrieben werden:
 * [Technische Leitung Jugend](/contact/tljugend)
 * [Webadmin](/contact/webadmin)
 
-Weitere Infos zu der Organisation findest du unter [Organisation](/about/organisation).
+Weitere Informationen zu der Organisation findest du unter [Organisation](/about/organisation).

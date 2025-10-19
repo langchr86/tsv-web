@@ -11,4 +11,4 @@ Die Trainingsorganisation findest du unter [Riegen & Trainingsplan](/riegen/uber
 Der Google Kalender kann über den unten befindlichen Button `Zu Google Kalender hinzufügen`
 in das eigene Google-Konto eingebunden werden.
 
-Für detaillierte Informationen kann beim Präsidenten das aktuelle Jahresprogramm des TSV Mettauertal [angefragt werden](/contact/prasidium).
+Für detaillierte Informationen kann beim Präsidium das aktuelle Jahresprogramm des TSV Mettauertal [angefragt werden](/contact/prasidium).

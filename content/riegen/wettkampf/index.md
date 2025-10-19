@@ -11,7 +11,7 @@ Schnellst Fricktaler
 
 > Jugend
 
-Ein Einzelwettkampf in welchem sich die besten Sprinter des Fricktals in Kurzsprints (60-80m, je nach Kategorie) messen.
+Ein Einzelwettkampf in welchem sich die besten Sprinter des Fricktals in Kurzsprints (60-80 m, je nach Kategorie) messen.
 Es gibt Vorläufe, Zwischenläufe und Finalläufe.
 
  
@@ -81,6 +81,6 @@ UBS Kids Cup Team
 Teamanlass um die Kinder spielerisch mit der Leichtathletik in Kontakt zu bringen.
 Es wird in Mannschaften pro Alterskategorie angetreten,
 welche jeweils zwei speziell auf das Alter zugeschnittene Disziplinen absolvieren.
-Altersübergreifend wird ein Hindernislauf und ein "Biathlon" (mit Tenisbällen und Hüttchen) bestritten.
+Altersübergreifend wird ein Hindernislauf und ein "Biathlon" (mit Tennisbällen und Hüttchen) bestritten.
 Die Wertung erfolgt pro Team gesamthaft über alle Disziplinen.  
 www.ubs-kidscup.ch/de/ubs-kids-cup-team

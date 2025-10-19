@@ -17,13 +17,12 @@ für die Jugend- und Aktivenabteilung besonders gefordert.
 
 Von links nach rechts:
 
-
-| Person       | Amt |
-|--------------| --- |
-| Lars Keller  | Technische Leitung Jugend |
-| Larissa Weiss  | Aktuariat |
-| Sabrina Müller  | Finanzen |
-| Michel Senn  | Präsidium |
-| Rahel Hüsler  | Technische Leitung Aktive |
+| Person         | Amt                           |
+|----------------|-------------------------------|
+| Lars Keller    | Technische Leitung Jugend     |
+| Larissa Weiss  | Aktuariat                     |
+| Sabrina Müller | Finanzen                      |
+| Michel Senn    | Präsidium                     |
+| Rahel Hüsler   | Technische Leitung Aktive     |
 | Reto Oeschger  | Event- und Materialmanagement |
-| Dominik Weber  | Vizepräsidium |
+| Dominik Weber  | Vizepräsidium                 |

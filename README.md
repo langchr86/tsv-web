@@ -59,7 +59,7 @@ Um zufällige Bilder auf der Homepage einzubeten wird eine angepasste Version vo
 Die angepassten Dateien, welche auf `gallery.tsvmettauertal.ch/piwigo-random/` verfügbar sein müssen, findet ihr hier:
 [piwigo-random](/piwigo-random/).
 
-Um ein spezifisches Album in einem Bericht zu verlinken kann der entsprechende Shortcode verwendet werden:
+Um ein spezifisches Album in einem Bericht zu verlinken, kann der entsprechende Shortcode verwendet werden:
 
 ~~~~~~
 {{< piwigo category=11 >}}

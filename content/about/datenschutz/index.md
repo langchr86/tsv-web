@@ -139,14 +139,14 @@ Eine Einwilligung ist insbesondere nicht notwendig, wenn das Speichern und das A
 also auch von Cookies, unbedingt erforderlich sind, um dem den Nutzern einen von ihnen ausdrücklich
 gewünschten Telemediendienst (also unser Onlineangebot) zur Verfügung zu stellen.
 Zu den unbedingt erforderlichen Cookies gehören in der Regel Cookies mit Funktionen,
-die der Anzeige und Lauffähigkeit des Onlineangebotes , dem Lastausgleich, der Sicherheit,
+die der Anzeige und Lauffähigkeit des Onlineangebotes, dem Lastausgleich, der Sicherheit,
 der Speicherung der Präferenzen und Auswahlmöglichkeiten der Nutzer oder ähnlichen mit der Bereitstellung
 der Haupt- und Nebenfunktionen des von den Nutzern angeforderten Onlineangebotes zusammenhängenden Zwecken dienen.
 Die widerrufliche Einwilligung wird gegenüber den Nutzern deutlich kommuniziert
 und enthält die Informationen zu der jeweiligen Cookie-Nutzung.
 
 ### Hinweise zu datenschutzrechtlichen Rechtsgrundlagen
-Auf welcher datenschutzrechtlichen Rechtsgrundlage wir die personenbezogenen Daten der Nutzer mit Hilfe von Cookies verarbeiten, hängt davon ab, ob wir Nutzer um eine Einwilligung bitten. Falls die Nutzer einwilligen, ist die Rechtsgrundlage der Verarbeitung Ihrer Daten die erklärte Einwilligung. Andernfalls werden die mithilfe von Cookies verarbeiteten Daten auf Grundlage unserer berechtigten Interessen (z.B. an einem betriebswirtschaftlichen Betrieb unseres Onlineangebotes und Verbesserung seiner Nutzbarkeit) verarbeitet oder, wenn dies im Rahmen der Erfüllung unserer vertraglichen Pflichten erfolgt, wenn der Einsatz von Cookies erforderlich ist, um unsere vertraglichen Verpflichtungen zu erfüllen. Zu welchen Zwecken die Cookies von uns verarbeitet werden, darüber klären wir im Laufe dieser Datenschutzerklärung oder im Rahmen von unseren Einwilligungs- und Verarbeitungsprozessen auf.
+Auf welcher datenschutzrechtlichen Rechtsgrundlage wir die personenbezogenen Daten der Nutzer mithilfe von Cookies verarbeiten, hängt davon ab, ob wir Nutzer um eine Einwilligung bitten. Falls die Nutzer einwilligen, ist die Rechtsgrundlage der Verarbeitung Ihrer Daten die erklärte Einwilligung. Andernfalls werden die mithilfe von Cookies verarbeiteten Daten auf Grundlage unserer berechtigten Interessen (z.B. an einem betriebswirtschaftlichen Betrieb unseres Onlineangebotes und Verbesserung seiner Nutzbarkeit) verarbeitet oder, wenn dies im Rahmen der Erfüllung unserer vertraglichen Pflichten erfolgt, wenn der Einsatz von Cookies erforderlich ist, um unsere vertraglichen Verpflichtungen zu erfüllen. Zu welchen Zwecken die Cookies von uns verarbeitet werden, darüber klären wir im Laufe dieser Datenschutzerklärung oder im Rahmen von unseren Einwilligungs- und Verarbeitungsprozessen auf.
 
 ### Speicherdauer
 Im Hinblick auf die Speicherdauer werden die folgenden Arten von Cookies unterschieden:
@@ -156,7 +156,7 @@ Im Hinblick auf die Speicherdauer werden die folgenden Arten von Cookies untersc
   geschlossen hat.
 * **Permanente Cookies:** Permanente Cookies bleiben auch nach dem Schließen des Endgerätes gespeichert.
   So können beispielsweise der Login-Status gespeichert oder bevorzugte Inhalte direkt angezeigt werden,
-  wenn der Nutzer eine Website erneut besucht. Ebenso können die mit Hilfe von Cookies erhobenen Daten
+  wenn der Nutzer eine Website erneut besucht. Ebenso können die mithilfe von Cookies erhobenen Daten
   der Nutzer zur Reichweitenmessung verwendet werden. Sofern wir Nutzern keine expliziten Angaben zur
   Art und Speicherdauer von Cookies mitteilen (z. B. im Rahmen der Einholung der Einwilligung),
   sollten Nutzer davon ausgehen, dass Cookies permanent sind und die Speicherdauer bis zu zwei Jahre betragen kann.
@@ -185,7 +185,7 @@ die Websites https://optout.aboutads.info und https://www.youronlinechoices.com/
   Die Speicherung kann serverseitig und/oder in einem Cookie
   (sogenanntes Opt-In-Cookie, bzw. mithilfe vergleichbarer Technologien) erfolgen,
   um die Einwilligung einem Nutzer, bzw. dessen Gerät zuordnen zu können.
-  Vorbehaltlich individueller Angaben zu den Anbietern von Cookie-Management-Diensten,
+  Vorbehaltlich individueller Angaben zu den Anbietern von Cookie-Management-Diensten
   gelten die folgenden Hinweise: Die Dauer der Speicherung der Einwilligung kann bis zu zwei Jahren betragen.
   Hierbei wird ein pseudonymer Nutzer-Identifikator gebildet und mit dem Zeitpunkt der Einwilligung,
   Angaben zur Reichweite der Einwilligung (z. B. welche Kategorien von Cookies und/oder Diensteanbieter)
@@ -209,7 +209,7 @@ die Erforderlichkeit etwaiger Datenangaben ergeben (im Übrigen weisen wir auf e
 Wir löschen Daten, die zur Erbringung unserer satzungs- und geschäftsmäßigen Zwecke nicht mehr erforderlich sind.
 Dies bestimmt sich entsprechend der jeweiligen Aufgaben und vertraglichen Beziehungen.
 Wir bewahren die Daten so lange auf, wie sie zur Geschäftsabwicklung, als auch im Hinblick auf
-etwaige Gewährleistungs- oder Haftungspflichten auf Grundlage unserer berechtigten Interesse
+etwaige Gewährleistungs- oder Haftungspflichten auf Grundlage unserer berechtigten Interessen
 an deren Regelung relevant sein können.
 Die Erforderlichkeit der Aufbewahrung der Daten wird regelmäßig überprüft;
 im Übrigen gelten die gesetzlichen Aufbewahrungspflichten.
@@ -231,7 +231,7 @@ Kontakt- und Anfragenverwaltung
 
 Bei der Kontaktaufnahme mit uns (z.B. per Post, Kontaktformular, E-Mail, Telefon oder via soziale Medien)
 sowie im Rahmen bestehender Nutzer- und Geschäftsbeziehungen werden die Angaben der anfragenden Personen
-verarbeitet soweit dies zur Beantwortung der Kontaktanfragen und etwaiger angefragter Maßnahmen erforderlich ist.
+verarbeitet so weit dies zur Beantwortung der Kontaktanfragen und etwaiger angefragter Maßnahmen erforderlich ist.
 
 * **Verarbeitete Datenarten:**
   Kontaktdaten (z.B. E-Mail, Telefonnummern); Inhaltsdaten (z.B. Eingaben in Onlineformularen);
@@ -313,9 +313,9 @@ Plugins und eingebettete Funktionen sowie Inhalte
 -------------------------------------------------
 
 Wir binden in unser Onlineangebot Funktions- und Inhaltselemente ein, die von den Servern ihrer
-jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter”) bezogen werden.
+jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter") bezogen werden.
 Dabei kann es sich zum Beispiel um Grafiken, Videos oder Stadtpläne handeln
-(nachfolgend einheitlich bezeichnet als "Inhalte”).
+(nachfolgend einheitlich bezeichnet als "Inhalte").
 
 Die Einbindung setzt immer voraus, dass die Drittanbieter dieser Inhalte die IP-Adresse der Nutzer verarbeiten,
 da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten.
@@ -345,7 +345,7 @@ als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 ### Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
 
 * **Google Maps:**
-  Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google ein.
+  Wir binden die Landkarten des Dienstes "Google Maps" des Anbieters Google ein.
   Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören;  
   **Dienstanbieter:** Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Irland;  
   **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO);  
