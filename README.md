@@ -53,6 +53,8 @@ Photo-Galerie
 Die ausgiebige Fotosammlung wird in einem separaten Tool unter:
 [gallery.tsvmettauertal.ch](https://gallery.tsvmettauertal.ch) verwaltet.
 Dazu wird [Piwigo](https://piwigo.org) selber gehostet.
+Bilder werden immer nur in maximal 1920x1080 Pixel hochgeladen.
+Die vollaufgelösten Bilder werden in der Nextcould archiviert: `TSV_Nextcloud/VereinsArchiv/Fotos/`.
 
 Um zufällige Bilder auf der Homepage einzubeten wird eine angepasste Version von
 [piwigo-random](https://github.com/moy/piwigo-random) verwendet.
