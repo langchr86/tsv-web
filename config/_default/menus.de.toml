@@ -20,21 +20,6 @@
   identifier = "events"
   pageRef = "/events"
   weight = 20
-[[main]]
-  name = "Agenda"
-  parent = "events"
-  pageRef = "/events/agenda"
-  weight = 1
-[[main]]
-  name = "Schnuppertraining"
-  parent = "events"
-  pageRef = "/events/schnupper"
-  weight = 2
-[[main]]
-  name = "Gesellschaftliche Anlässe"
-  parent = "events"
-  pageRef = "/events/gesellschaftlich"
-  weight = 3
 
 [[main]]
   name = "Über uns"
