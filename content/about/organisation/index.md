@@ -11,8 +11,9 @@ Diese vertreten die einzelnen Riegen im Vorstand und sorgen für die nötige Kom
 
 Die jeweiligen [Riegen](/riegen/) verfügen jeweils über einen Riegenleiter,
 welcher die Trainings organisiert und mithilfe seiner (Hilfs-)Leiter durchführt.
-Ausnahme bildet hier der [Unihockey-Spielbetrieb Wildgoose Wil-Gansingen](https://wildgoose.ch/),
-welcher eine Spielgemeinschaft mit dem [TSV Gansingen](https://www.tsvgansingen.ch/) darstellt.
+Ausnahme bildet hier der [Unihockey-Spielbetrieb Wild Goose](https://wildgoose.ch/),
+welcher eine Spielgemeinschaft mit dem [TSV Gansingen](https://tsvgansingen.ch/)
+und dem [TV Kaisten](https://tvkaisten.ch/) darstellt.
 
 
 Organigramm

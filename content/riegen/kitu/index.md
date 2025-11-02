@@ -12,4 +12,4 @@ Auch Quereinsteiger und Neuzuzüger sind jederzeit willkommen.
 Bitte kurz per [Kontaktformular](/contact/tljugend) anmelden.
 
 Bei weiteren Fragen zum [Trainingsbetrieb](/riegen/ubersicht)
-oder Anderem melde dich beim [Jugendverantwortlichen](/contact/tljugend).
+oder Anderem, melde dich beim [Jugendverantwortlichen](/contact/tljugend).

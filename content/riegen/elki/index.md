@@ -13,4 +13,4 @@ bevor sie dann im Sommer den Kindergarten besuchen.
 Wir schreiben jeweils die betreffenden Jahrgänge an, dann kann man sich bei uns anmelden.
 
 Bei weiteren Fragen zum [Trainingsbetrieb](/riegen/ubersicht)
-oder Anderem melde dich beim [Jugendverantwortlichen](/contact/tljugend).
+oder Anderem, melde dich beim [Jugendverantwortlichen](/contact/tljugend).

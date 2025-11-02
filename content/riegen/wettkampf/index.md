@@ -35,6 +35,16 @@ Es gibt nur eine Wertung über alle drei Disziplinen.
 Die Besten pro Kategorie qualifizieren sich für den Kantonalfinal.  
 www.ubs-kidscup.ch
 
+
+Fricktaler Cup
+--------------
+
+> Aktive
+
+Vorbereitungsanlass für das Turnfest.
+Hier können wir unsere trainierten Disziplinen zum ersten Mal im Jahr an einem echten Wettkampf unter Beweis stellen.
+Es ist ein Wettkampf im Vereinsturnen, Weitsprung, Kugelstossen, Aerobic und in der Gymnastik.
+
  
 Turnfest
 --------
@@ -53,7 +63,7 @@ was es besonders auch für Zuschauer attraktiv macht.
 Fricktal Games
 --------------
 
-> Jugend & Aktive
+> Jugend
 
 Ein auf Spiel und Spass ausgelegter Teamwettkampf.
 Es nehmen mehrere Teams (nach Alter) mit 5-6 Mitglieder daran Teil.

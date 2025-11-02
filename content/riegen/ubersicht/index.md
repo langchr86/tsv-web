@@ -1,5 +1,5 @@
 ---
-title: 'Riegen & Trainingsplan'
+title: 'Übersicht & Trainingsplan'
 originalImage: 2018-06-23-12-25-19.jpg
 ---
 

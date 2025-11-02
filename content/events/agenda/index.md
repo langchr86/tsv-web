@@ -4,8 +4,8 @@ showHero: false
 ---
 
 Im Folgenden wird der Online-Google-Kalender mit allen Terminen zur Verfügung gestellt.
-Die Trainingsorganisation findest du unter [Riegen & Trainingsplan](/riegen/ubersicht).
-Das aktuelle Jahresprogramm kann beim Präsidium als PDF [angefragt werden](/contact/prasidium).
+Die Trainingsorganisation findest du unter [Übersicht & Trainingsplan](/riegen/ubersicht).
+Das aktuelle Jahresprogramm kann beim [Präsidium](/contact/prasidium) als PDF angefragt werden.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=tsvmettauertal%40gmail.com&ctz=Europe%2FZurich" style="border: 0" width="100%" height="420" frameborder="0" scrolling="no"></iframe>
 

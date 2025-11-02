@@ -58,7 +58,7 @@
   pageRef = "/riegen"
   weight = 40
 [[main]]
-  name = "Riegen & Trainingsplan"
+  name = "Übersicht & Trainingsplan"
   parent = "riegen"
   pageRef = "/riegen/ubersicht"
   weight = 1
