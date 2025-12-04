@@ -18,6 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: 'dev'
           submodules: true
 
       - name: Setup Hugo
