@@ -131,12 +131,6 @@
   url = "/news/rss_feed"
   weight = 102
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/langchr86/tsv-web"
-  weight = 103
-
 
 
 
@@ -158,3 +152,9 @@
    name = "Impressum"
    pageRef = "/about/impressum"
    weight = 110
+
+[[footer]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/langchr86/tsv-web"
+  weight = 120
