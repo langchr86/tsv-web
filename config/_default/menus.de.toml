@@ -114,15 +114,15 @@
   weight = 60
 
 [[main]]
-  identifier = "facebook"
-  pre = "facebook"
-  url = "https://facebook.com/tsvmettauertal"
-  weight = 100
-
-[[main]]
   identifier = "instagram"
   pre = "instagram"
   url = "https://instagram.com/tsvmettauertal"
+  weight = 100
+
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://facebook.com/tsvmettauertal"
   weight = 101
 
 [[main]]
