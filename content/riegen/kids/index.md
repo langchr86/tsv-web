@@ -13,4 +13,4 @@ Zudem legen wir viel Wert auf die Förderung der sozialen und interdisziplinäre
 
 Bei weiteren Fragen zum [Trainingsbetrieb](/riegen/ubersicht),
 [Wettkämpfen](/riegen/wettkampf)
-oder Anderem, melde dich beim [Jugendverantwortlichen](/contact/tljugend).
+oder Anderem, melde dich beim [Jugendverantwortlichen](/about/contact/tljugend).

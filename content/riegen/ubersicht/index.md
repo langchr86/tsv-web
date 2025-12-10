@@ -9,7 +9,7 @@ bis zum [Unihockey](../unihockey) ist für alle in jedem Alter etwas dabei.
 
 Die Trainings finden wöchentlich statt. Alle Interessierten sind jederzeit herzlich zu
 einem [Schnuppertraining](/events/schnuppertraining) eingeladen.
-Bei Fragen wendest du dich an den jeweiligen [Riegenleiter](/contact).
+Bei Fragen wendest du dich an den jeweiligen [Riegenleiter](/about/contact).
 
 Für die Jugendabteilungen findest du hier bei Bedarf die Beitrittserklärung:
 [beitrittserklaerung_jugend.pdf](/about/downloads/beitrittserklaerung_jugend.pdf)

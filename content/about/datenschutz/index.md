@@ -9,7 +9,7 @@ Verantwortlicher
 
 TSV Mettauertal: [Impressum](/about/impressum)  
 5276 Wil (AG)  
-Kontakt Präsident: [Präsidium](/contact/prasidium)  
+Kontakt Präsident: [Präsidium](/about/contact/prasidium)  
 
 
 Vertretungsberechtigte Personen
