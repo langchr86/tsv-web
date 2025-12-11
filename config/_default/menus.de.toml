@@ -107,6 +107,11 @@
   parent = "riegen"
   pageRef = "/riegen/wettkampf"
   weight = 9
+[[main]]
+  name = "Leiterteam Jugend"
+  parent = "riegen"
+  pageRef = "/riegen/leiterteam_jugend"
+  weight = 10
 
 [[main]]
   name = "Galerie"
