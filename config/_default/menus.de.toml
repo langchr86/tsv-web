@@ -63,34 +63,34 @@
   pageRef = "/riegen/ubersicht"
   weight = 1
 [[main]]
-  name = "Aktive"
+  name = "Übersicht Wettkämpfe"
   parent = "riegen"
-  pageRef = "/riegen/aktive"
+  pageRef = "/riegen/wettkampf"
   weight = 2
+[[main]]
+  name = "Leiterteam Jugend"
+  parent = "riegen"
+  pageRef = "/riegen/leiterteam_jugend"
+  weight = 3
 [[main]]
   name = "Jugi"
   parent = "riegen"
   pageRef = "/riegen/jugi"
-  weight = 3
+  weight = 4
 [[main]]
   name = "Kids"
   parent = "riegen"
   pageRef = "/riegen/kids"
-  weight = 4
+  weight = 5
 [[main]]
   name = "Kinder-Turnen"
   parent = "riegen"
   pageRef = "/riegen/kitu"
-  weight = 5
+  weight = 6
 [[main]]
   name = "Eltern-Kind-Turnen"
   parent = "riegen"
   pageRef = "/riegen/elki"
-  weight = 6
-[[main]]
-  name = "Volleyball"
-  parent = "riegen"
-  pageRef = "/riegen/volleyball"
   weight = 7
 [[main]]
   name = "Unihockey"
@@ -98,14 +98,14 @@
   pageRef = "/riegen/unihockey"
   weight = 8
 [[main]]
-  name = "Übersicht Wettkämpfe"
+  name = "Aktive"
   parent = "riegen"
-  pageRef = "/riegen/wettkampf"
+  pageRef = "/riegen/aktive"
   weight = 9
 [[main]]
-  name = "Leiterteam Jugend"
+  name = "Volleyball"
   parent = "riegen"
-  pageRef = "/riegen/leiterteam_jugend"
+  pageRef = "/riegen/volleyball"
   weight = 10
 
 [[main]]
