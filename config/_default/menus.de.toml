@@ -130,13 +130,6 @@
   url = "https://facebook.com/tsvmettauertal"
   weight = 101
 
-[[main]]
-  identifier = "rss"
-  pre = "rss"
-  url = "/news/rss_feed"
-  weight = 102
-
-
 
 
 # -- Footer Menu --
@@ -157,6 +150,12 @@
    name = "Impressum"
    pageRef = "/about/impressum"
    weight = 110
+
+[[footer]]
+  identifier = "rss"
+  pre = "rss"
+  url = "/news/rss_feed"
+  weight = 115
 
 [[footer]]
   identifier = "github"
