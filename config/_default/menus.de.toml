@@ -51,11 +51,6 @@
   parent = "about"
   pageRef = "/about/spenden"
   weight = 5
-[[main]]
-  name = "Kontakt"
-  parent = "about"
-  pageRef = "/about/contact"
-  weight = 6
 
 [[main]]
   identifier = "riegen"
@@ -114,6 +109,11 @@
   weight = 10
 
 [[main]]
+  name = "Kontakt"
+  pageRef = "/contact"
+  weight = 50
+
+[[main]]
   name = "Galerie"
   url = "https://gallery.tsvmettauertal.ch/"
   weight = 60
@@ -138,7 +138,7 @@
 
 [[footer]]
   name = "Kontakt"
-  pageRef = "/about/contact"
+  pageRef = "/contact"
   weight = 90
 
  [[footer]]

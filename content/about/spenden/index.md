@@ -26,5 +26,5 @@ Passivmitgliedschaft
 --------------------
 
 Falls du gerne regelmässig über unsere Aktivitäten informiert werden willst,
-kannst du dich beim [Präsidium](/about/contact/prasidium) als Passivmitglied anmelden.
+kannst du dich beim [Präsidium](/contact/prasidium) als Passivmitglied anmelden.
 Du wirst dadurch auch namentlich als solches erwähnt.

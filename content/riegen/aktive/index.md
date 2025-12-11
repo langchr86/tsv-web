@@ -13,4 +13,4 @@ wie zum Beispiel dem Fricktaler Cup oder dem Fricktaler Polysportiv-Turnier.
 
 Bei weiteren Fragen zum [Trainingsbetrieb](/riegen/ubersicht),
 [Wettkämpfen](/riegen/wettkampf)
-oder Anderem, melde dich beim [technischen Leiter Aktive](/about/contact/tlaktive).
+oder Anderem, melde dich beim [technischen Leiter Aktive](/contact/tlaktive).
