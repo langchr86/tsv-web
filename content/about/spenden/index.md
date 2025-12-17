@@ -14,9 +14,9 @@ Falls du nicht anonym bleiben möchtest, ergänze deinen Namen, Adresse und evtl
 
 ~~~~~~
 TSV Mettauertal
-CH25 8068 9000 0053 8842 5
-Raiffeisenbank Mettauertal
-5272 Gansingen
+5273 Oberhofen AG
+CH14 0076 1649 0555 8200 2
+Aargauische Kantonalbank
 ~~~~~~
 
 Wir danken dir herzlich!
