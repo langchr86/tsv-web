@@ -26,12 +26,12 @@ welche die finanziellen Mittel des Vereins sicherstellen.
 
 Als herausragendste Momente in seiner Geschichte kann der Verein auf folgende Events zurückblicken:
 
-* Bergturnfest 2014
-  * [2014-06-20 - BTF Freitag](https://gallery.tsvmettauertal.ch/index.php?/category/31)
-  * [2014-06-21 - BTF Samstag](https://gallery.tsvmettauertal.ch/index.php?/category/30)
-  * [2014-06-22 - BTF Sonntag](https://gallery.tsvmettauertal.ch/index.php?/category/29)
+* [Jugendturnfest 2025](/news/2025-05-31_jugendturnfest)
 * Fahnenweihe 2018
   * [2018-05-25 - Fahnenweihe Aufbau](https://gallery.tsvmettauertal.ch/index.php?/category/34)
   * [2018-05-26 - Fahnenweihe Samstag](https://gallery.tsvmettauertal.ch/index.php?/category/33)
   * [2018-05-27 - Fahnenweihe Sonntag](https://gallery.tsvmettauertal.ch/index.php?/category/32)
-* [Jugendturnfest 2025](/news/2025-05-31_jugendturnfest)
+* Bergturnfest 2014
+  * [2014-06-20 - BTF Freitag](https://gallery.tsvmettauertal.ch/index.php?/category/31)
+  * [2014-06-21 - BTF Samstag](https://gallery.tsvmettauertal.ch/index.php?/category/30)
+  * [2014-06-22 - BTF Sonntag](https://gallery.tsvmettauertal.ch/index.php?/category/29)
