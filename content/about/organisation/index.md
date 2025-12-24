@@ -21,7 +21,7 @@ Organigramm
 
 Eine Übersicht der kompletten Vereinsorganisation zeigt das folgende Organigramm.
 
-![Organigramm](organigramm.png)
+![Organigramm](organigramm.drawio.svg)
 
 
 Statuten
