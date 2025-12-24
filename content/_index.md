@@ -20,3 +20,6 @@ Hier ein paar zufällige Impressionen:
 	  async>
   </script>
 </div>
+
+Die Suchfunktion {{< icon "search" >}} (oben rechts) hilft dir schnell und einfach alle gewünschten Infos zu finden.
+Bei weiteren Fragen erreichst du uns jederzeit über das [Kontaktformular](/contact).
