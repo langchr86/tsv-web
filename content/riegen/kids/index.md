@@ -2,14 +2,17 @@
 title: 'Kids-Riege'
 ---
 
-> Alter: 5 - 7 Jahre
+> Alter: 1. + 2. Klasse
 
-Die Kids-Riege des TSV Mettauertal trainiert während dem gesamten Jahr in der Halle oder bei schönem Wetter draussen.
-Wir fördern die Kinder in gemischten und polysportiven Trainings.
-Die Ältesten der Riege können bereits an Wettkämpfen teilnehmen.
+Die gemischte Kids-Riege des TSV Mettauertal trainiert während
+den Schulwochen in der Halle und bei schönem Wetter draussen.
+Wir fördern die Kinder in polysportiven Trainings.
+Die Kids dürfen mit dem regionalen Anlass Fricktal Games bereits erste Wettkampferfahrungen sammeln.
 
 Die Trainings sind auf Spiel und Spass aber auch auf gezieltes Üben ausgelegt.
 Zudem legen wir viel Wert auf die Förderung der sozialen und interdisziplinären Kompetenzen der Kinder.
+
+Der Übertritt in die Jugi und Märi erfolgt jeweils in der 3. Klasse nach den Fricktal Games Ende August.
 
 Bei weiteren Fragen zum [Trainingsbetrieb](/riegen/ubersicht),
 [Wettkämpfen](/riegen/wettkampf)
