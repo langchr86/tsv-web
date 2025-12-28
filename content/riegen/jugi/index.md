@@ -1,5 +1,5 @@
 ---
-title: 'Knaben- und Mädchenriege (Jugi)'
+title: 'Knaben- und Mädchenriege (Jugi & Märi)'
 originalImage: 2015-06-13-13-17-38.jpg
 ---
 

@@ -73,7 +73,7 @@
   pageRef = "/riegen/leiterteam_jugend"
   weight = 3
 [[main]]
-  name = "Jugi"
+  name = "Jugi & Märi"
   parent = "riegen"
   pageRef = "/riegen/jugi"
   weight = 4
