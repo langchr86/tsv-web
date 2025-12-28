@@ -11,7 +11,7 @@ Das aktuelle Jahresprogramm kann beim [Präsidium](/contact/prasidium) als PDF a
 
 Der Google Kalender kann über den unten rechts befindlichen Button `Zu Google Kalender hinzufügen` oder das grosse `+`
 in das eigene **Google-Konto** eingebunden werden.
-Dazu muss sich man sich am besten zuerst im Browser anmelden:
+Dazu muss man sich am besten zuerst im Browser anmelden:
 [Bei Google anmelden](https://accounts.google.com/ServiceLogin)
 
 Und folgend auch eine Anleitung um den Kalender anstatt in ein Google-Konto in ein **Apple-Konto** einzubinden:
