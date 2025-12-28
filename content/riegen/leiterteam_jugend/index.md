@@ -7,25 +7,23 @@ Für alle die unterschiedlichen Jugendriegen haben wir ein grosses und motiviert
 Bist du interessiert in einer Riege als Leiter mitzuwirken?
 Dann melde dich ganz einfach beim [Jugendverantwortlichen](/contact/tljugend).
 
-Knaben
+
+Leiterteam
 ------
 
-TBD
-
-Sie leiten die [Knabenriege](/riegen/jugi)
-
-
-Mädchen
--------
-
-TBD
-
-Sie leiten die [Mädchenriege](/riegen/jugi)
-
-
-Kids
-----
-
-TBD
-
-Sie leiten die [Kids-Riege](/riegen/kids)
+* Colin Roth
+* Cédric Senn
+* Dominik Bredanger
+* Jonas Honegger
+* Kim Roth
+* Kira Keller
+* Lara Oeschger (Riegenleitung Märi)
+* Larissa Weiss
+* Lars Keller
+* Manuel Bredanger
+* Michel Senn
+* Patrick Schraner (Riegenleitung Jugi)
+* Reto Oeschger
+* Roman Frei (Riegeleitung Kids)
+* Severin Kramer
+* Zara Zumsteg
