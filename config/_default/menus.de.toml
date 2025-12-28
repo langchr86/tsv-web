@@ -73,40 +73,45 @@
   pageRef = "/riegen/leiterteam_jugend"
   weight = 3
 [[main]]
+  name = "Fragen und Antworten Jugend"
+  parent = "riegen"
+  pageRef = "/riegen/fragen_antworten_jugend"
+  weight = 4
+[[main]]
   name = "Jugi & Märi"
   parent = "riegen"
   pageRef = "/riegen/jugi"
-  weight = 4
+  weight = 11
 [[main]]
   name = "Kids"
   parent = "riegen"
   pageRef = "/riegen/kids"
-  weight = 5
+  weight = 12
 [[main]]
   name = "Kinder-Turnen"
   parent = "riegen"
   pageRef = "/riegen/kitu"
-  weight = 6
+  weight = 13
 [[main]]
   name = "Eltern-Kind-Turnen"
   parent = "riegen"
   pageRef = "/riegen/elki"
-  weight = 7
+  weight = 14
 [[main]]
   name = "Unihockey"
   parent = "riegen"
   pageRef = "/riegen/unihockey"
-  weight = 8
+  weight = 21
 [[main]]
   name = "Aktive"
   parent = "riegen"
   pageRef = "/riegen/aktive"
-  weight = 9
+  weight = 31
 [[main]]
   name = "Volleyball"
   parent = "riegen"
   pageRef = "/riegen/volleyball"
-  weight = 10
+  weight = 32
 
 [[main]]
   name = "Kontakt"
