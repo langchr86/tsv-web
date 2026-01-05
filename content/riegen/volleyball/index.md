@@ -10,11 +10,13 @@ Wir freuen uns immer auf neue Volleyball-Interessierte aller Geschlechter.
 
 Das regelmässige Training unserer Mixed-Mannschaft ist strukturiert aufgebaut
 (Einlaufen, Kräftigung- /Ausdauer- und Technikblock) wobei das Spielen nicht zu kurz kommt.
-Die Meisterschaft wird hauptsächlich in den Wintermonaten gespielt und besteht aus ca. 8 Matches.
-Die Matches werden unter der Woche (meistens an dem jeweiligen Trainingstag der Heimmannschaft) bestritten.
-Seit letzter Saison spielen wir in der Indoorvolley Easy League mit.
-Dies ist eine Spielform für Freizeit-VolleyballerInnen in veschiedenen Stärkeklassen,
-ohne offiziellen Schiedsrichtern und Tenue-Zwang.
+
+Die Meisterschaft bestreiten wir in der [Indoorvolley Easy League](http://indoorvolley.easyleague.ch/),
+welche für Freizeit-VolleyballerInnen in verschiedenen Stärkeklassen gedacht ist
+und ohne offiziellen Schiedsrichtern oder Tenue-Zwang auskommt.
+Die meist ca. 8 Matches werden hauptsächlich in den Wintermonaten unter der Woche bestritten
+(meistens an dem jeweiligen Trainingstag der Heimmannschaft).
+
 Durch die Turnfestvorbereitung für den Fachtest Volleyball der Damen- und Herren-Riegen,
 der Teilnahme an Volleynights und dem eigenen Beachfeld kommt das Volleyballspielen auch im Sommer zum Zug.
 
