@@ -93,4 +93,4 @@ Es ist ein Wettkampf im Vereinsturnen, Weitsprung, Kugelstossen, Aerobic und in 
 
 ### Polysportiv-Turnier
 
-TBD
+Plauschturnier mit unterschiedlichen Team-Wettkämpfen.
