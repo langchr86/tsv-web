@@ -27,3 +27,11 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      - name: Create empty key file
+        run: install -m 600 -D /dev/null ~/.ssh/id_rsa
+      - name: Populate key
+        run: echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
+
+      - name: Upload
+        run: rsync --archive --delete --stats -e 'ssh -o StrictHostKeyChecking=no' public/ tsvmetta@tsvmettauertal.ch:/home/tsvmetta/www/tsvmettauertal.ch/
