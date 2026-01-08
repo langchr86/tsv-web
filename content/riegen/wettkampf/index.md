@@ -29,7 +29,7 @@ Es gibt nur eine Wertung über alle drei Disziplinen.
 Die Besten pro Kategorie qualifizieren sich für den Kantonalfinal.
 Dieser Anlass findet im Frühling statt.
 Unser Verein betreut die Kinder aus der Jugi und Märi.  
-www.ubs-kidscup.ch
+www.ubs-kidscup.ch/de/start
 
 
 ### Fricktal Games
