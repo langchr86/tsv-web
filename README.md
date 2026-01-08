@@ -75,3 +75,12 @@ Die Kontakt-Funktion wird über [formspark.io](https://dashboard.formspark.io) g
 Wir verwenden den existierenden Workspace `TSV JTF2025`, da wir sonst neue Submissions bezahlen müssten.
 
 Zur Bot-Bekämpfung nutzen wir: [botpoison.com](https://botpoison.com/)
+
+
+SEO
+---
+
+Für die Suchmaschinen-Optimierung kann die
+[Google Search Console](https://search.google.com/search-console) verwendet werden.
+Dort muss vor allem das `sitemap.xml` unter
+[Sitemaps](https://search.google.com/search-console/sitemaps) hinzugefügt werden.
