@@ -1,6 +1,7 @@
 ---
 title: 'Vorstand'
 showHero: false
+originalImage: 2026-01-10-01-05-35.jpg
 ---
 
 Die [Organisationsstruktur](/about/organisation) des Vereins verlangt
@@ -19,10 +20,10 @@ Von links nach rechts:
 
 | Person         | Amt                           |
 |----------------|-------------------------------|
-| Lars Keller    | Technische Leitung Jugend     |
-| Larissa Weiss  | Aktuariat                     |
+| Reto Oeschger  | Event- und Materialmanagement |
 | Sabrina Müller | Finanzen                      |
+| Dominik Weber  | Vizepräsidium                 |
+| Larissa Weiss  | Aktuariat                     |
 | Michel Senn    | Präsidium                     |
 | Rahel Hüsler   | Technische Leitung Aktive     |
-| Reto Oeschger  | Event- und Materialmanagement |
-| Dominik Weber  | Vizepräsidium                 |
+| Kim Roth       | Technische Leitung Jugend     |
