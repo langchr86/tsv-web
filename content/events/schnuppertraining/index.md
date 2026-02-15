@@ -9,6 +9,3 @@ Komm vorbei und überzeuge dich selber!
 Du kannst in allen Riegen einfach spontan vorbeischauen.
 Informationen zu den einzelnen Riegen findest du unter [Übersicht & Trainingsplan](/riegen/ubersicht).
 Noch besser ist es allerdings, wenn du dich zuerst bei der [technischen Leitung](/contact) informierst und anmeldest.
-
-Informationen zum Schnuppertraining für alle Jugendabteilungen findest du in der
-[einladung_schnuppertraining_jugend.pdf](/about/downloads/einladung_schnuppertraining_jugend.pdf).
