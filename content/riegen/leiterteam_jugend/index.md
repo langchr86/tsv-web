@@ -20,7 +20,7 @@ Leiterteam
 * Patrick Schraner (Riegenleitung Jugi)
 {{< gallery >}} <img src="patrick.jpg" class="grid-w33" /> {{< /gallery >}}
 
-* Roman Frei (Riegeleitung Kids)
+* Roman Frei (Riegenleitung Kids)
 {{< gallery >}} <img src="roman.jpg" class="grid-w33" /> {{< /gallery >}}
 
 * Colin Roth
