@@ -33,8 +33,10 @@ Leiterteam
 {{< gallery >}} <img src="dominik.jpg" class="grid-w33" /> {{< /gallery >}}
 
 * Kira Keller
+{{< gallery >}} <img src="kira.jpg" class="grid-w33" /> {{< /gallery >}}
 
 * Larissa Weiss
+{{< gallery >}} <img src="larissa.jpg" class="grid-w33" /> {{< /gallery >}}
 
 * Lars Keller
 {{< gallery >}} <img src="lars.jpg" class="grid-w33" /> {{< /gallery >}}
